@@ -6,7 +6,7 @@
 
 ### Полезная информация по 1С :
 
-- [ВОзможности форматов текста](https://vk.com/away.php?to=https%3A%2F%2Fhelpf.pro%2Ffaq83%2Fview%2F125.html&utf=1)
+- [Возможности форматов текста](https://vk.com/away.php?to=https%3A%2F%2Fhelpf.pro%2Ffaq83%2Fview%2F125.html&utf=1)
 
 ### Билет 1
 СПР - Метод решения с получением актуальных окладов на определенные даты в периоде.
