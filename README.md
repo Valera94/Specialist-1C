@@ -5,7 +5,7 @@
 >Эти решения лишь для личного использования и наработки навыков в решениях типовых задач для сдачи 1С-Специалист платформы !
 
 ### Полезные авторы каналов с глубокими знаниями : 
--[Веселый1С](https://youtube.com/channel/UCvtbWjVxUuDEGK_pUeGjnSw?feature=shared)
+- [Веселый1С](https://youtube.com/channel/UCvtbWjVxUuDEGK_pUeGjnSw?feature=shared)
 
 ### Полезная информация по 1С :
 
