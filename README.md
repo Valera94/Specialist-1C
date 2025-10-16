@@ -6,13 +6,13 @@
 
 ### Полезные авторы каналов с глубокими знаниями : 
 - [Веселый1С](https://youtube.com/channel/UCvtbWjVxUuDEGK_pUeGjnSw?feature=shared)
-- [Александр Старичков. 1С Специалист для совместного осмысления задач.](https://vk.com/club226951467)
 
 ### Полезная информация по 1С :
 
 - [Возможности форматов текста](https://vk.com/away.php?to=https%3A%2F%2Fhelpf.pro%2Ffaq83%2Fview%2F125.html&utf=1)
 
 ### Помощь в подготовке к 1С Специалист :
+- [Александр Старичков. 1С Специалист для совместного осмысления задач.](https://vk.com/club226951467)
 - [Некие советы по экзамену](https://www.koderline.ru/expert/instruktsii/article-primer-konspekta-po-teme-raschetnye-mekhanizmy-pri-podgotovke-k-ekzamenu-1s-spetsialist-po-platforme/?sphrase_id=37982)
 
 # СПР - методы решения.
