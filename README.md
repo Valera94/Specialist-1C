@@ -19,7 +19,8 @@
 - [Александр Старичков. 1С Специалист для совместного осмысления задач.](https://vk.com/club226951467)
 - [Александр Старичков. 1С Специалист, выгрузка решений.](https://disk.yandex.ru/d/5PHZuecpp99bOA)
 - [Форум Чистова. Подготовка к экзаменам 1С](https://forum.chistov.pro/index.php)
-
+- [Илья Леонтьев](https://www.youtube.com/@IlyaLeontyev)
+- [Даниил Котляр](https://www.youtube.com/channel/UCyGjSFPOnvNopIj7tXoZ2tQ)
 - [Некие советы по экзамену](https://www.koderline.ru/expert/instruktsii/article-primer-konspekta-po-teme-raschetnye-mekhanizmy-pri-podgotovke-k-ekzamenu-1s-spetsialist-po-platforme/?sphrase_id=37982)
 
 
