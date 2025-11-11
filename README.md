@@ -14,6 +14,7 @@
 ### Полезные авторы каналов с глубокими знаниями : 
 - [Веселый1С](https://youtube.com/channel/UCvtbWjVxUuDEGK_pUeGjnSw?feature=shared)
 - [Лапицкий](https://www.youtube.com/@code-review-1c/videos)
+- [Илья Леонтьев](https://www.youtube.com/@IlyaLeontyev)
 
 ### Полезная информация по 1С :
 - [Возможности форматов текста](https://vk.com/away.php?to=https%3A%2F%2Fhelpf.pro%2Ffaq83%2Fview%2F125.html&utf=1)
